@@ -1,0 +1,13 @@
+body {
+    display: flex;
+}
+section {
+    display: block;
+}
+
+div {
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 100px;
+    height: 100px;
+}
